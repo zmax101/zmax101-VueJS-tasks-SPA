@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VueJS-tasks-SPA/precache-manifest.12ec3f84d94ac0bd81ac89c6111abe6d.js"
+  "/zmax101-VueJS-tasks-SPA/precache-manifest.a858f36e43ae48ccb70ce4b5e7b1f6ba.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "my-app"});
