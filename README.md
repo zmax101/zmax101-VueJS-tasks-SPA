@@ -1,1 +1,1 @@
-# https://github.com/zmax101/SPA-task-VUE-CLI-
+https://github.com/zmax101/SPA-task-VUE-CLI-
